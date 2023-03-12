@@ -1,0 +1,17 @@
+
+.logo {
+  width: 50px !important;
+  height: 50px !important;
+}
+.card{
+    margin-bottom: 15px;
+}
+
+@font-face {
+  font-family: myFont;
+  src: url('./../font/iransans/verdana.ttf');
+}
+
+body{
+  font-family: myFont !important;
+}
